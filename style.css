@@ -1,0 +1,89 @@
+.bg-img{
+    width: 100%;
+    height: 1000px;
+    background-image: url(wllpaper\ bocc.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.text-center .h1{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+}
+.p{
+    display: flex;
+    flex-direction: column;
+    color: blueviolet;
+    font-size: 100px;
+    font-weight: bold;
+}
+.section{
+    background-color: rgb(255, 255, 255);
+}
+.section .kelas {
+    width: 100%;
+    display: flex;
+}
+
+.section img{
+    width: 100%;
+    height: auto;
+}
+.section{
+    background-color: rgb(255, 255, 255);
+}
+.section .kelas {
+    width: 100%;
+    display: flex;
+}
+
+.section img{
+    width: 60%;
+    height: auto;
+}
+section {
+    background-color:  rgb(75, 75, 75);
+  }
+  section .container {
+    padding-bottom: 100px;
+  }
+  section .container h1 {
+    color: #ffffff;
+    font-size: 42px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-align: center;
+  }
+  section .container h5 {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-align: center;
+  }
+  section .container .row {
+    margin-top: 102px;
+    gap: 17px;
+    justify-content: center;
+  }
+  section .container .row .col-md-5 {
+    align-items: center;
+    padding: 0px;
+    width: 267px;
+    height: 497px;
+  }
+  section .container .row .col-md-5 h2 {
+    color: azure;
+    padding-top: 30px;
+    text-align: center;
+  }
+  section .container .row .col-md-5 p {
+    color: azure;
+    padding-top: 8px;
+    text-align: center;
+  }
+
